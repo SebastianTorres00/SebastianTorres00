@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**SebastianTorres00/SebastianTorres00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola , me llamo Sebastian! 👋
 
-Here are some ideas to get you started:
+  
+## 🚀 About Me
+Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada por las tecnologias, me encantan los desafíos y el constante aprendizaje de nuevas herramientas y lenguajes. Actualmente construyo aplicaciones usando React js, Redux, Express, Sequelize, HTML y CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-zeta-green.vercel.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantorres-fullstack/)
+
+  
