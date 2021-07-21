@@ -14,3 +14,4 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantorres-fullstack/)
 
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianTorres00)](https://github.com/anuraghazra/github-readme-stats)
