@@ -20,12 +20,13 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 
 ## :pushpin: Mis proyectos
 FOOD APP
+ 
 <p>
-  <a href ="https://github.com/SebastianTorres00/FoodWeb"><img src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></a>
+ <a href ="https://github.com/SebastianTorres00/FoodWeb"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></code></a>
 </p>
 Movie App
 <p>
-  <a href ="https://github.com/SebastianTorres00/Movie-app"><img src="https://github.com/SebastianTorres00/Movie-app/blob/master/1.png"></a>
+  <a href ="https://github.com/SebastianTorres00/Movie-app"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/Movie-app/blob/master/1.png"></code></a>
 </p>
 
 
