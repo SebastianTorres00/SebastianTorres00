@@ -15,3 +15,18 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianTorres00)](https://github.com/anuraghazra/github-readme-stats)
+
+&nbsp;
+
+## :pushpin: Mis proyectos
+FOOD APP
+<p>
+  <a href ="https://github.com/SebastianTorres00/FoodWeb"><img src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></a>
+</p>
+Movie App
+<p>
+  <a href ="https://github.com/SebastianTorres00/Movie-app"><img src="https://github.com/SebastianTorres00/Movie-app/blob/master/1.png"></a>
+</p>
+
+
+&nbsp;
