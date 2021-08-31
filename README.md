@@ -52,6 +52,9 @@ Movie App
 <p>
   <a href ="https://github.com/SebastianTorres00/Movie-app"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/Movie-app/blob/master/1.png"></code></a>
 </p>
-
+Banco Del Sol (Mobile Digital Wallet App)
+<p>
+ <a href ="https://github.com/SebastianTorres00/Banco-del-sol"><img width="300px" height="700px" src="https://cdn.discordapp.com/attachments/877550366454079550/882402198603038830/unknown.png"></a>
+</p>
 
 &nbsp;
