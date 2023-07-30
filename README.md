@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada por las tecnologias, me encantan los desafíos y el constante aprendizaje de nuevas herramientas y lenguajes. Actualmente construyo aplicaciones usando Javascript, TypeScript, React js - React Native, Redux, Express, Nest, Sequelize, HTML y CSS.
+Soy un desarrollador de software con más de 2 años de experiencia capaz de mantener un enfoque tranquilo y enfocado mientras se trabaja en proyectos de alta presión. Actualmente, especializo en tecnologías como <b>React</b> y <b>React Native</b>, y trabajé con metodologías ágiles como <b>Scrum</b>. También cuento con experiencia en la implementación de <b>Clean Code</b>, <b>TypeScript</b>, <b>Clean Architecture</b> y <b>Principios Solid</b> para mejorar la calidad del código y en el desarrollo de <b>MicroFrontend</b> para aplicaciones escalables. Me gusta mantenerme actualizado en las últimas tendencias en tecnología y siempre estoy buscando formas de mejorar mi trabajo.
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -15,14 +15,6 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=TypeScript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-#### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-%23E44D27?style=flat-square&logo=Express)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs&logoColor=f2003c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -33,7 +25,7 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-zeta-green.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.sebatorres.dev/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantorres-fullstack/)
 
@@ -43,10 +35,10 @@ Desarrollador Web Full Stack, viviendo en Argentina. Soy una persona apasionada 
 &nbsp;
 
 ## :pushpin: Mis proyectos
-FOOD APP
+Poke APP
  
 <p>
- <a href ="https://github.com/SebastianTorres00/FoodWeb"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></code></a>
+ <a href ="https://github.com/SebastianTorres00/PokeWebTS"><code><img width="500px" height="300px" src="https://media.discordapp.net/attachments/234147072050200577/1135309522605457498/PokeWeb.png?width=1426&height=702"></code></a>
 </p>
 Movie App
 <p>
@@ -56,5 +48,9 @@ Banco Del Sol (Mobile Digital Wallet App)
 <p>
  <a href ="https://github.com/SebastianTorres00/Banco-del-sol"><img width="300px" height="700px" src="https://cdn.discordapp.com/attachments/877550366454079550/882402198603038830/unknown.png"></a>
 </p>
-
+FOOD APP
+ 
+<p>
+ <a href ="https://github.com/SebastianTorres00/FoodWeb"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></code></a>
+</p>
 &nbsp;
