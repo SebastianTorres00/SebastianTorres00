@@ -30,25 +30,5 @@ Soy un desarrollador de software con más de 2 años de experiencia capaz de man
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantorres-fullstack/)
 
-&nbsp;
 
-## :pushpin: Mis proyectos
-Poke APP
- 
-<p>
- <a href ="https://github.com/SebastianTorres00/PokeWebTS"><code><img width="500px" height="300px" src="https://media.discordapp.net/attachments/234147072050200577/1135309522605457498/PokeWeb.png?width=1426&height=702"></code></a>
-</p>
-Movie App
-<p>
-  <a href ="https://github.com/SebastianTorres00/Movie-app"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/Movie-app/blob/master/1.png"></code></a>
-</p>
-Banco Del Sol (Mobile Digital Wallet App)
-<p>
- <a href ="https://github.com/SebastianTorres00/Banco-del-sol"><img width="300px" height="700px" src="https://cdn.discordapp.com/attachments/877550366454079550/882402198603038830/unknown.png"></a>
-</p>
-FOOD APP
- 
-<p>
- <a href ="https://github.com/SebastianTorres00/FoodWeb"><code><img width="500px" height="300px" src="https://github.com/SebastianTorres00/FoodWeb/blob/master/1.png"></code></a>
-</p>
 &nbsp;
