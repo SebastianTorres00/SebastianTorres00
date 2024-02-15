@@ -26,6 +26,9 @@ Soy un desarrollador de software con más de 2 años de experiencia capaz de man
 
   
 ## 🔗 Links
+
+[![Ultimo Proyecto](https://img.shields.io/badge/Ultimo%20Proyecto-3433?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rutaprogramador.com/)
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.sebatorres.dev/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiantorres-front-end/)
