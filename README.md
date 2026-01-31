@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-Soy un desarrollador de software con más de 3 años de experiencia capaz de mantener un enfoque tranquilo y enfocado mientras se trabaja en proyectos de alta presión. Actualmente, especializo en tecnologías como <b>React</b> y <b>React Native</b>, y trabajé con metodologías ágiles como <b>Scrum</b>. También cuento con experiencia en la implementación de <b>Clean Code</b>, <b>TypeScript</b>, <b>Clean Architecture</b> y <b>Principios Solid</b> para mejorar la calidad del código y en el desarrollo de <b>MicroFrontend</b> para aplicaciones escalables. Me gusta mantenerme actualizado en las últimas tendencias en tecnología y siempre estoy buscando formas de mejorar mi trabajo.
+Soy un desarrollador de software con más de 4 años de experiencia capaz de mantener un enfoque tranquilo y enfocado mientras se trabaja en proyectos de alta presión. Actualmente, especializo en tecnologías como <b>React</b> y <b>React Native</b>, y trabajé con metodologías ágiles como <b>Scrum</b>. También cuento con experiencia en la implementación de <b>Clean Code</b>, <b>TypeScript</b>, <b>Clean Architecture</b> y <b>Principios Solid</b> para mejorar la calidad del código y en el desarrollo de <b>MicroFrontend</b> para aplicaciones escalables. Me gusta mantenerme actualizado en las últimas tendencias en tecnología y siempre estoy buscando formas de mejorar mi trabajo.
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
